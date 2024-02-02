@@ -1,0 +1,9 @@
+## Clusterização - K-Means
+
+A operadora de seguro de saúde reconhece a significativa influência do peso, gênero e nível de colesterol no desenvolvimento de doenças cardíacas. Nesse contexto, a finalidade deste projeto é identificar perfis de indivíduos com maior propensão a sobrepeso e colesterol elevado. Para atingir esse objetivo, será utilizado o modelo de agrupamento por meio do algoritmo K-Means. O foco é encontrar grupos distintos de indivíduos (clusters) e estabelecer limites entre o grupo saudável e o grupo de risco. 
+
+A base de dados disponível contém os atributos peso, colesterol e gênero, sendo peso e colesterol variáveis numéricas, enquanto a variável gênero é binária (1 para masculino e 0 para feminino). Utilizando o algoritmo K-Means, a clustrização será realizada com k=2, buscando descrever os dois grupos gerados. As informações obtidas nos clusters serão utilizadas para diferenciar os dois grupos de risco. 
+
+A análise avança para a tentativa de identificar três grupos distintos: alto risco, caracterizado por colesterol e peso elevados; baixo risco, associado a colesterol e peso baixos; e risco moderado, caracterizado por apenas peso ou colesterol elevados. Os resultados serão avaliados para verificar a eficácia dessa classificação. 
+
+Além disso, o objetivo é investigar quais são os limites de peso e colesterol para que um indivíduo seja considerado paciente de risco. Essa análise contribuirá para estabelecer critérios claros e definir os parâmetros que distinguem os diferentes níveis de risco. Ao compreender esses limites, a operadora de seguro de saúde poderá tomar decisões mais informadas e personalizadas em relação ao gerenciamento de riscos e oferta de serviços aos seus segurados.
