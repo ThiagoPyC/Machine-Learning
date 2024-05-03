@@ -1,0 +1,1 @@
+Neste repósitorio estou aplicando conceitos e técnicas de modelagem de dados realizados como exercícios em aula.
