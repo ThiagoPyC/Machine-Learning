@@ -1,3 +1,3 @@
 ## Machine Learning
 
-Este repositório concentra-se na preparação e criação de modelos de machine learning, explorando conceitos de aprendizado supervisionado e não supervisionado. No aprendizado supervisionado, utilizei algoritmos como árvore de decisão, regressão e ensemble para abordar diversos cenários. No aprendizado não supervisionado, concentrei-me na clusterização usando o algoritmo K-means, além de realizar projetos em processamento de linguagem natural (NLP) para análise de sentimento..
+Este repositório concentra-se na preparação e criação de modelos de machine learning, explorando conceitos de aprendizado supervisionado e não supervisionado. No aprendizado supervisionado, utilizei algoritmos como árvore de decisão, regressão e ensemble para abordar diversos cenários. No aprendizado não supervisionado, concentrei-me na clusterização usando o algoritmo K-means, além de realizar projetos em processamento de linguagem natural (NLP) para análise de sentimento.
