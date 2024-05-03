@@ -36,9 +36,6 @@ A abordagem utilizada segue o conceito estabelecido pelo sociólogo Everett Roge
 
         Late Majority: quem comprou eReaders de geração anteriores após 2 meses do lançamento. 
 
-
-A análise será realizada em duas planilhas do arquivo, sendo a primeira chamada TREINAMENTO, contendo registros já classificados, e a segunda chamada VALIDAÇÃO, com novos registros sem classes definidas, usada para avaliar o modelo. Na planilha VALIDAÇÃO, não há um gabarito/label, servindo apenas para simular uma previsão do mundo real. Essa planilha será utilizada para validar visualmente e testar a criação de uma coluna de predição para os casos sem classe definida. 
-
 Antes da construção do modelo, uma análise estatística dos dados é recomendada, destacando que aparentemente não há valores omissos ou inconsistentes, embora seja necessário preparar os dados. O campo ID_usuário, sem relação direta com os consumidores, não será utilizado na modelagem. A classe destino será representada pelo campo Adoção_eReader. 
 
 A construção da árvore de decisão será realizada com base nos dados de treinamento. É feita a exploração de diferentes parâmetros da árvore, incluindo a alteração do critério de seleção de atributos, ajustes nos hiperparâmetros para evitar overfitting e simplificação da árvore para uma complexidade considerada aceitável.
