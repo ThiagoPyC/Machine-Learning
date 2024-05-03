@@ -1,0 +1,1 @@
+ O repositório apresenta o uso de modelagem de dados para organizar e estruturar conjuntos de dados, e a aplicação de modelos de Machine Learning.
