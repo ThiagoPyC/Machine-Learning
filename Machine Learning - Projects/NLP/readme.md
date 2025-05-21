@@ -2,4 +2,4 @@
 
 Nesse projeto utilizamos biblioteca Vader(LeIA), essa biblioteca é usada para analisar o sentimento das frases de um texto. Essa ferramenta é especialmente útil para realizar análise de sentimentos, classificando textos em categorias como Positivo, Negativo ou Neutro.
 
-Utilizei os comentários de produtos do Mercado Livre para realizar este projeto.
+Pelos os comentários de produtos do Mercado Livre.
